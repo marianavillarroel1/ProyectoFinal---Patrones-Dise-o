@@ -7,26 +7,39 @@ class Program
     {
         ISistema sistema = new Proxy();
 
-        Console.WriteLine("=== SISTEMA DE ACCESO ===");
+        Console.WriteLine("=== SISTEMA DE SIMULACION DE AERONAVES ===");
 
-        Console.Write("Ingrese su usuario: ");
-        string usuario = Console.ReadLine();
+        Console.WriteLine("- Proxy de acceso. -");
 
-        Console.Write("Ingrese su contraseña: ");
-        string contrasena = Console.ReadLine();
+        bool continuar = true; 
 
-        bool accesoConcedido = sistema.acceder(usuario, contrasena);
-
-        if (accesoConcedido)
+        while (continuar)
         {
-            Console.WriteLine(">>> Ingreso exitoso.");
-        }
-        else
-        {
-            Console.WriteLine(">>> No se pudo ingresar al sistema.");
-        }
+            Console.Write("Ingrese su usuario: ");
+            string usuario = Console.ReadLine();
 
-        Console.WriteLine("\nPresione cualquier tecla para salir...");
-        Console.ReadKey();
+            Console.Write("Ingrese su contraseña: ");
+            string contrasena = Console.ReadLine();
+
+            bool accesoConcedido = sistema.acceder(usuario, contrasena);
+
+            if (accesoConcedido)
+            {
+                Console.WriteLine(">>> Ingreso exitoso.");
+                //Display Menu
+            }
+            else
+            {
+                Console.WriteLine(">>> No se pudo ingresar al sistema.");
+                Console.Write("¿Desea intentar nuevamente? (s/n): ");
+                string respuesta = Console.ReadLine().ToLower();
+
+                if (respuesta != "s")
+                {
+                    continuar = false;
+                    Console.WriteLine(">>> Saliendo del sistema...");
+                }
+            }
+        }
     }
 }

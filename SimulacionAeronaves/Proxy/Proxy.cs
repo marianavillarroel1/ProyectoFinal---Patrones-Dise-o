@@ -35,7 +35,7 @@ namespace SimulacionAeronaves.Proxy
         public bool validarCredenciales(string usuario, string contrasena)
         {
             // Simulación de validación: por ejemplo, usuario = admin y contraseña = 1234
-            return usuario == "admin" && contrasena == "1234";
+            return usuario.Trim() == "admin" && contrasena.Trim() == "1234";
         }
 
 
