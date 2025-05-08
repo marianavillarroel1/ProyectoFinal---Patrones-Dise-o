@@ -1,4 +1,4 @@
-namespace Mediator
+namespace SimulacionAeronaves.Mediator
 {
     public interface IDron
     {
