@@ -53,6 +53,7 @@
     <Compile Include="Mediator\ConcreteDronMilitar.cs" />
     <Compile Include="Mediator\IDron.cs" />
     <Compile Include="Mediator\IMediatorDron.cs" />
+    <Compile Include="Composite\*.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
