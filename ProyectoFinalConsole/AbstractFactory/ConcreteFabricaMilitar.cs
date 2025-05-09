@@ -23,9 +23,9 @@ namespace ProyectoFinalConsole.AbstractFactory
             return new ConcreteHelicopteroMilitar();
         }
 
-        public IDron CrearDron()
+        public IDron CrearDron(string nombre)
         {
-            return new ConcreteDronMilitar();
+            return new ConcreteDronMilitar(nombre);
         }
     }
 }

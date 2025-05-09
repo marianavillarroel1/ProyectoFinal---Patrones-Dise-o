@@ -12,19 +12,26 @@ namespace ProyectoFinalConsole.Observer
 
         public void suscribir(AbstractAeronaveBase observer)
         {
-            observadores.Add(observer);
-            Console.WriteLine($"{observer.Modelo} se ha suscrito a la Torre de Control.");
+            if (!observadores.Contains(observer))
+            {
+                observadores.Add(observer);
+                Console.WriteLine($"{observer.Modelo} se ha suscrito a la Torre de Control.");
+            }
         }
+
 
         public void darDeBaja(AbstractAeronaveBase observer)
         {
-            observadores.Remove(observer);
-            Console.WriteLine($"{observer.Modelo} se ha dado de baja de la Torre de Control.");
+            if (observadores.Remove(observer))
+            {
+                Console.WriteLine($"{observer.Modelo} se ha dado de baja de la Torre de Control.");
+            }
         }
+
 
         public void emitirAlerta(string codigo)
         {
-            Console.WriteLine($"\n🚨 Torre de Control emite alerta: {codigo}");
+            Console.WriteLine($"\n Torre de Control emite ALERTA: {codigo}");
             foreach (var observador in observadores)
             {
                 observador.actualizar(codigo);

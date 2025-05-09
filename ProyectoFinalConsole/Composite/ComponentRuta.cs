@@ -10,5 +10,7 @@ namespace ProyectoFinalConsole.Composite
     {
         public abstract string GetDestino();
         public abstract double GetPrecio();
+        public abstract string ObtenerDescripcion();
+
     }
 }

@@ -11,6 +11,6 @@ namespace ProyectoFinalConsole.AbstractFactory
         IAvion CrearAvion();
         IAvionPrivado CrearAvionPrivado();
         IHelicoptero CrearHelicoptero();
-        IDron CrearDron();
+        IDron CrearDron(string nombre);
     }
 }

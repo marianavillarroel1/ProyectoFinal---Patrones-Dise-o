@@ -1,18 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProyectoFinalConsole.Proxy
 {
     internal class Proxy : ISistema
     {
         private SistemaReal sistemaReal;
+        private Dictionary<string, string> usuariosValidos;
 
         public Proxy()
         {
             sistemaReal = new SistemaReal();
+
+            usuariosValidos = new Dictionary<string, string>()
+            {
+                { "isa", "12345" },
+                { "majo", "12345" },
+                { "mari", "12345" },
+                { "vale", "12345" },
+                { "admin", "admin123" }
+            };
         }
 
         public bool acceder(string usuario, string contrasena)
@@ -32,10 +39,9 @@ namespace ProyectoFinalConsole.Proxy
             return sistemaReal.acceder(usuario, contrasena);
         }
 
-        public bool validarCredenciales(string usuario, string contrasena)
+        private bool validarCredenciales(string usuario, string contrasena)
         {
-            // Simulación de validación: por ejemplo, usuario = admin y contraseña = 1234
-            return usuario == "admin" && contrasena == "1234";
+            return usuariosValidos.ContainsKey(usuario) && usuariosValidos[usuario] == contrasena;
         }
     }
 }

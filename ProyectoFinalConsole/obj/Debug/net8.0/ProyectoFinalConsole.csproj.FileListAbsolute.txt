@@ -12,3 +12,4 @@ C:\Users\maria\source\repos\ProyectoFinalConsole\ProyectoFinalConsole\obj\Debug\
 C:\Users\maria\source\repos\ProyectoFinalConsole\ProyectoFinalConsole\obj\Debug\net8.0\ProyectoFinalConsole.pdb
 C:\Users\maria\source\repos\ProyectoFinalConsole\ProyectoFinalConsole\obj\Debug\net8.0\ProyectoFinalConsole.genruntimeconfig.cache
 C:\Users\maria\source\repos\ProyectoFinalConsole\ProyectoFinalConsole\obj\Debug\net8.0\ref\ProyectoFinalConsole.dll
+C:\Users\maria\source\repos\ProyectoFinalConsole\ProyectoFinalConsole\obj\Debug\net8.0\ProyectoFinalConsole.sourcelink.json

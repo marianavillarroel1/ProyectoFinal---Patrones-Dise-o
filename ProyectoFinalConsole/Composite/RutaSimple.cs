@@ -28,5 +28,11 @@ namespace ProyectoFinalConsole.Composite
             Console.WriteLine($"Precio de ruta simple a {destino}: {precio}");
             return precio;
         }
+
+        public override string ObtenerDescripcion()
+        {
+            return $"Ruta simple a {destino} - Precio: {precio}";
+        }
+
     }
 }

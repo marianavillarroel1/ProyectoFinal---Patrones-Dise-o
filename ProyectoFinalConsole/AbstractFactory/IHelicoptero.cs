@@ -1,14 +1,18 @@
 ﻿using ProyectoFinalConsole.Observer;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProyectoFinalConsole.AbstractFactory
 {
     internal abstract class IHelicoptero : AbstractAeronaveBase
     {
+        public IHelicoptero(string fabricante, string modelo, string placa, double costoVuelo)
+            : base(fabricante, modelo, placa, costoVuelo)
+        {
+        }
 
+        public override void InterpretarAlerta(string codigoAlerta)
+        {
+            Console.WriteLine($"🚁 HELICÓPTERO ({Modelo}): Alerta recibida - {codigoAlerta}");
+        }
     }
 }

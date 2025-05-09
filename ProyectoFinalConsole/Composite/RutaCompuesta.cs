@@ -51,5 +51,20 @@ namespace ProyectoFinalConsole.Composite
             }
             return suma;
         }
+
+        public override string ObtenerDescripcion()
+        {
+            string descripcion = "Ruta compuesta:\n";
+
+            foreach (var tramo in tramos)
+            {
+                descripcion += " - " + tramo.ObtenerDescripcion() + "\n";
+            }
+
+            descripcion += "Precio total: " + CalcularPrecioTotal();
+            return descripcion;
+        }
+
+
     }
 }

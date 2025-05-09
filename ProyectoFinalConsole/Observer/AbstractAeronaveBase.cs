@@ -1,10 +1,6 @@
 ﻿using ProyectoFinalConsole.Composite;
 using ProyectoFinalConsole.Visitor;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProyectoFinalConsole.Observer
 {
@@ -14,13 +10,23 @@ namespace ProyectoFinalConsole.Observer
         public string Modelo { get; set; }
         public string Placa { get; set; }
         public double CostoVuelo { get; set; }
-        public int VuelosRealizados { get; private set; } = 0;
+        public int VuelosRealizados { get; set; } = 0;
+
+        protected ComponentRuta RutaAsignada { get; set; }
+
+        public AbstractAeronaveBase(string fabricante, string modelo, string placa, double costoVuelo)
+        {
+            Fabricante = fabricante;
+            Modelo = modelo;
+            Placa = placa;
+            CostoVuelo = costoVuelo;
+        }
+
 
         public void volar()
         {
             VuelosRealizados++;
 
-            // Selección aleatoria de maniobra
             string[] maniobras = { "Sobrevuelo", "Espera", "Aproximación de aterrizaje" };
             Random rnd = new Random();
             string maniobra = maniobras[rnd.Next(maniobras.Length)];
@@ -36,14 +42,12 @@ namespace ProyectoFinalConsole.Observer
 
         public abstract void InterpretarAlerta(string codigoAlerta);
 
-        public void aceptarVisitor(IEstadisticaVisitor visitor)
-        {
-            // Se implementará en las clases concretas
-        }
+        public abstract void aceptarVisitor(IEstadisticaVisitor visitor);
 
         public void asignarRuta(ComponentRuta ruta)
         {
-            // Implementación opcional según diagrama
+            RutaAsignada = ruta;
+            Console.WriteLine($"{Modelo} fue asignado a la ruta: {ruta.ObtenerDescripcion()}");
         }
     }
 }
