@@ -31,6 +31,8 @@ namespace ProyectoFinalConsole
 
             TorreDeControlSubject torre = new TorreDeControlSubject();
             List<AbstractAeronaveBase> aeronaves = new List<AbstractAeronaveBase>();
+            CentralDeMandoMediator central = new CentralDeMandoMediator();
+
             bool salirPrograma = false;
 
             while (!salirPrograma)
@@ -52,6 +54,9 @@ namespace ProyectoFinalConsole
                         break;
                     case "2":
                         MenuSuscripcionesTorre(aeronaves, torre);
+                        break;
+                    case "4":
+                        MenuOperacionesDron(aeronaves, central);
                         break;
                     case "7":
                         salirPrograma = true;
@@ -231,8 +236,98 @@ namespace ProyectoFinalConsole
             }
         }
 
+        static void MenuOperacionesDron(List<AbstractAeronaveBase> aeronaves, CentralDeMandoMediator central)
+        {
+            bool salir = false;
+
+            while (!salir)
+            {
+                Console.WriteLine("\n--- Operaciones de Drones ---");
+                Console.WriteLine("1. Actualizar registro de drones");
+                Console.WriteLine("2. Asignar operación a drones");
+                Console.WriteLine("3. Salir");
+                Console.Write("Opción: ");
+                string opcion = Console.ReadLine();
+
+                switch (opcion)
+                {
+                    case "1":
+                        ActualizarRegistroDrones(aeronaves, central);
+                        break;
+                    case "2":
+                        MenuAsignarOperacionDrones(aeronaves);
+                        break;
+                    case "3":
+                        salir = true;
+                        break;
+                    default:
+                        Console.WriteLine("Opción no válida.");
+                        break;
+                }
+            }
+        }
 
 
+        static void ActualizarRegistroDrones(List<AbstractAeronaveBase> aeronaves, CentralDeMandoMediator central)
+        {
+            Console.WriteLine("\nRegistrando drones en la central de mando...");
+
+            foreach (var a in aeronaves)
+            {
+                if (a is IDron dron)
+                {
+                    central.RegistrarDron(dron);
+                    Console.WriteLine($"Dron {a.Modelo} registrado.");
+                }
+            }
+        }
+
+
+        static void MenuAsignarOperacionDrones(List<AbstractAeronaveBase> aeronaves)
+        {
+            bool salir = false;
+
+            while (!salir)
+            {
+                Console.WriteLine("\n--- Asignar Operación ---");
+                Console.WriteLine("1. Reasignación de rutas");
+                Console.WriteLine("2. Confirmación de patrullaje");
+                Console.WriteLine("3. Reubicación de vigilancia");
+                Console.WriteLine("4. Salir");
+                Console.Write("Opción: ");
+                string opcion = Console.ReadLine();
+
+                var drones = aeronaves.Where(a => a is IDron).Cast<IDron>().ToList();
+
+                if (drones.Count == 0)
+                {
+                    Console.WriteLine("No hay drones disponibles.");
+                    return;
+                }
+
+                switch (opcion)
+                {
+                    case "1":
+                        foreach (var d in drones)
+                            d.SolicitarReasignacionRuta();
+                        break;
+                    case "2":
+                        foreach (var d in drones)
+                            d.SolicitarConfirmacionPatrullaje();
+                        break;
+                    case "3":
+                        foreach (var d in drones)
+                            d.SolicitarReubicacionVigilancia();
+                        break;
+                    case "4":
+                        salir = true;
+                        break;
+                    default:
+                        Console.WriteLine("Opción no válida.");
+                        break;
+                }
+            }
+        }
 
         /*Console.WriteLine("Iniciando sistema...");
 
