@@ -37,5 +37,16 @@ namespace ProyectoFinalConsole.Observer
                 observador.actualizar(codigo);
             }
         }
+
+        public List<AbstractAeronaveBase> ObtenerSuscritas()
+        {
+            return observadores;
+        }
+
+        public List<AbstractAeronaveBase> ObtenerNoSuscritas(List<AbstractAeronaveBase> todas)
+        {
+            return todas.Where(a => !observadores.Contains(a)).ToList();
+        }
+
     }
 }
