@@ -1,114 +1,142 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\",
+  "WorkspaceRootPath": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\proxy\\isistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\proxy\\isistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\bridge\\gestorestadisticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\bridge\\gestorestadisticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\visitor\\iestadisticavisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\visitor\\iestadisticavisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\ihelicoptero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\ihelicoptero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\concreteavionprivadocivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\concreteavionprivadocivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\concreteavioncivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\concreteavioncivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\observer\\torredecontrolsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\observer\\torredecontrolsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\observer\\abstractaeronavebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\observer\\abstractaeronavebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\observer\\abstractaeronavebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\concretehelicopterocivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\bridge\\refinedpresentacionestadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\bridge\\refinedpresentacionestadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\bridge\\abstractionpresentadorestadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\bridge\\abstractionpresentadorestadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\bridge\\formatopdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\bridge\\formatopdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\bridge\\formatotextoplano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\bridge\\formatotextoplano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\bridge\\iformatosalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\bridge\\iformatosalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\proyectofinalconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\proyectofinalconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\proxy\\isistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\proxy\\isistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\ihelicoptero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\ihelicoptero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\concreteavionprivadocivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\concreteavionprivadocivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\concreteavioncivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\concreteavioncivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\observer\\torredecontrolsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\observer\\torredecontrolsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\concretehelicopterocivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\concretehelicopterocivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\concretefabricacivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\concretefabricacivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\concretefabricacivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\concretedronmilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\concretedronmilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\concretedronmilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\concretedroncivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\concretedroncivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\concretedroncivil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\mediator\\imediatordron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\mediator\\imediatordron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\mediator\\imediatordron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\mediator\\centraldemandomediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\mediator\\centraldemandomediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\mediator\\centraldemandomediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\concretehelicopteromilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\concretehelicopteromilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\concretehelicopteromilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\concreteavionprivadomilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\concreteavionprivadomilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\concreteavionprivadomilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\concreteavionmilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\concreteavionmilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\concreteavionmilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\concretefabricamilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\concretefabricamilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\concretefabricamilitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\idron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\idron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\idron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\iavionprivado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\iavionprivado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\iavionprivado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\iavion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\iavion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\iavion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\abstractfactory\\abstractaeronavefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\abstractfactory\\abstractaeronavefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\abstractfactory\\abstractaeronavefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\composite\\rutacompuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\composite\\rutacompuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\composite\\rutacompuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\composite\\rutasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\composite\\rutasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\composite\\rutasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\composite\\componentruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\composite\\componentruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\composite\\componentruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\proxy\\sistemareal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\calvo\\documents\\universidad\\patrones de diseno\\pf2\\proyectofinal---patrones-dise-o\\proyectofinalconsole\\proxy\\sistemareal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\proxy\\sistemareal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|c:\\users\\maria\\source\\repos\\proyectofinalconsole\\proyectofinalconsole\\visitor\\iestadisticavisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D82E718B-02BB-458D-8065-A508C6767D42}|ProyectoFinalConsole\\ProyectoFinalConsole.csproj|solutionrelative:proyectofinalconsole\\visitor\\iestadisticavisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,340 +146,204 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 25,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IEstadisticaVisitor.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Visitor\\IEstadisticaVisitor.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Visitor\\IEstadisticaVisitor.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Visitor\\IEstadisticaVisitor.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\Visitor\\IEstadisticaVisitor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GestorEstadisticas.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Bridge\\GestorEstadisticas.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Bridge\\GestorEstadisticas.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Bridge\\GestorEstadisticas.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Bridge\\GestorEstadisticas.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:26:15.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IMediatorDron.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Mediator\\IMediatorDron.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Mediator\\IMediatorDron.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Mediator\\IMediatorDron.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\Mediator\\IMediatorDron.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:22:27.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CentralDeMandoMediator.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Mediator\\CentralDeMandoMediator.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Mediator\\CentralDeMandoMediator.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Mediator\\CentralDeMandoMediator.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\Mediator\\CentralDeMandoMediator.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:21:35.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ConcreteFabricaMilitar.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaMilitar.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaMilitar.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaMilitar.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaMilitar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:18:36.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ConcreteFabricaCivil.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaCivil.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaCivil.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaCivil.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaCivil.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:17:28.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ConcreteHelicopteroMilitar.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroMilitar.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroMilitar.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroMilitar.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroMilitar.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA9wB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:16:57.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ConcreteHelicopteroCivil.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroCivil.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroCivil.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroCivil.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroCivil.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:16:24.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ConcreteDronMilitar.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteDronMilitar.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteDronMilitar.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteDronMilitar.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteDronMilitar.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAA9wDoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:15:29.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ConcreteDronCivil.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteDronCivil.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteDronCivil.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteDronCivil.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteDronCivil.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:14:04.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ConcreteAvionPrivadoMilitar.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoMilitar.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoMilitar.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoMilitar.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoMilitar.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA9wB8AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:10:45.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConcreteAvionPrivadoCivil.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoCivil.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoCivil.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoCivil.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoCivil.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:09:44.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ConcreteAvionMilitar.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionMilitar.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionMilitar.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionMilitar.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionMilitar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:06:30.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConcreteAvionCivil.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionCivil.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionCivil.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionCivil.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionCivil.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T01:59:55.311Z",
+              "WhenOpened": "2025-05-11T02:19:37.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IHelicoptero.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\IHelicoptero.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\IHelicoptero.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\IHelicoptero.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\IHelicoptero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T01:48:34.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IDron.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\IDron.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\IDron.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\IDron.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\IDron.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T01:47:38.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IAvionPrivado.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\IAvionPrivado.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\IAvionPrivado.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\IAvionPrivado.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\IAvionPrivado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T01:47:08.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IAvion.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\IAvion.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\IAvion.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\IAvion.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\IAvion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T01:46:35.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AbstractAeronaveFactory.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\AbstractAeronaveFactory.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\AbstractAeronaveFactory.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\AbstractFactory\\AbstractAeronaveFactory.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\AbstractAeronaveFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T01:45:50.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RutaSimple.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Composite\\RutaSimple.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Composite\\RutaSimple.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Composite\\RutaSimple.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\Composite\\RutaSimple.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA4wCAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T01:37:27.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RutaCompuesta.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Composite\\RutaCompuesta.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Composite\\RutaCompuesta.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Composite\\RutaCompuesta.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\Composite\\RutaCompuesta.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T01:35:46.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ComponentRuta.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Composite\\ComponentRuta.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Composite\\ComponentRuta.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Composite\\ComponentRuta.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\Composite\\ComponentRuta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T01:35:32.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "AbstractAeronaveBase.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Observer\\AbstractAeronaveBase.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Observer\\AbstractAeronaveBase.cs",
               "RelativeDocumentMoniker": "ProyectoFinalConsole\\Observer\\AbstractAeronaveBase.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Observer\\AbstractAeronaveBase.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Observer\\AbstractAeronaveBase.cs",
               "RelativeToolTip": "ProyectoFinalConsole\\Observer\\AbstractAeronaveBase.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAADwvygAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T15:49:56.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TorreDeControlSubject.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Observer\\TorreDeControlSubject.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Observer\\TorreDeControlSubject.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Observer\\TorreDeControlSubject.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\Observer\\TorreDeControlSubject.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IEstadisticaVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Visitor\\IEstadisticaVisitor.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Visitor\\IEstadisticaVisitor.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Visitor\\IEstadisticaVisitor.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Visitor\\IEstadisticaVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T15:48:42.975Z",
+              "WhenOpened": "2025-05-09T02:26:15.148Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefinedPresentacionEstadistica.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Bridge\\RefinedPresentacionEstadistica.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Bridge\\RefinedPresentacionEstadistica.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Bridge\\RefinedPresentacionEstadistica.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Bridge\\RefinedPresentacionEstadistica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:17:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbstractionPresentadorEstadistica.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Bridge\\AbstractionPresentadorEstadistica.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Bridge\\AbstractionPresentadorEstadistica.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Bridge\\AbstractionPresentadorEstadistica.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Bridge\\AbstractionPresentadorEstadistica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:17:21.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormatoPDF.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Bridge\\FormatoPDF.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Bridge\\FormatoPDF.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Bridge\\FormatoPDF.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Bridge\\FormatoPDF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:16:46.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormatoTextoPlano.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Bridge\\FormatoTextoPlano.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Bridge\\FormatoTextoPlano.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Bridge\\FormatoTextoPlano.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Bridge\\FormatoTextoPlano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:16:04.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFormatoSalida.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Bridge\\IFormatoSalida.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Bridge\\IFormatoSalida.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Bridge\\IFormatoSalida.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Bridge\\IFormatoSalida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:15:37.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProyectoFinalConsole",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\ProyectoFinalConsole.csproj",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\ProyectoFinalConsole.csproj",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\ProyectoFinalConsole.csproj",
+              "RelativeToolTip": "ProyectoFinalConsole\\ProyectoFinalConsole.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T02:10:28.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CentralDeMandoMediator.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Mediator\\CentralDeMandoMediator.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Mediator\\CentralDeMandoMediator.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Mediator\\CentralDeMandoMediator.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Mediator\\CentralDeMandoMediator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:21:35.301Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "SistemaReal.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Proxy\\SistemaReal.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Proxy\\SistemaReal.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Proxy\\SistemaReal.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\Proxy\\SistemaReal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Title": "ConcreteFabricaMilitar.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaMilitar.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaMilitar.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaMilitar.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaMilitar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T15:40:18.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T02:18:36.787Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Proxy.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Proxy\\Proxy.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Proxy\\Proxy.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Proxy\\Proxy.cs",
-              "RelativeToolTip": "ProyectoFinalConsole\\Proxy\\Proxy.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAkwBUAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "ConcreteFabricaCivil.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaCivil.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaCivil.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaCivil.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteFabricaCivil.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T15:39:58.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T02:17:28.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 22,
+              "Title": "ConcreteHelicopteroMilitar.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroMilitar.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroMilitar.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroMilitar.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroMilitar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:16:57.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConcreteHelicopteroCivil.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroCivil.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroCivil.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroCivil.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteHelicopteroCivil.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:16:24.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConcreteDronMilitar.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteDronMilitar.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteDronMilitar.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteDronMilitar.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteDronMilitar.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA9wDoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:15:29.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ISistema.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Proxy\\ISistema.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Proxy\\ISistema.cs",
               "RelativeDocumentMoniker": "ProyectoFinalConsole\\Proxy\\ISistema.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Proxy\\ISistema.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Proxy\\ISistema.cs",
               "RelativeToolTip": "ProyectoFinalConsole\\Proxy\\ISistema.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -460,16 +352,219 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 20,
+              "Title": "IMediatorDron.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Mediator\\IMediatorDron.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Mediator\\IMediatorDron.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Mediator\\IMediatorDron.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Mediator\\IMediatorDron.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:22:27.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConcreteDronCivil.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteDronCivil.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteDronCivil.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteDronCivil.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteDronCivil.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:14:04.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConcreteAvionPrivadoMilitar.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoMilitar.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoMilitar.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoMilitar.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoMilitar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:10:45.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConcreteAvionPrivadoCivil.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoCivil.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoCivil.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoCivil.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionPrivadoCivil.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:09:44.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConcreteAvionMilitar.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionMilitar.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionMilitar.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionMilitar.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionMilitar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:06:30.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConcreteAvionCivil.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionCivil.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionCivil.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionCivil.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\ConcreteAvionCivil.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:59:55.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IHelicoptero.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\IHelicoptero.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\IHelicoptero.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\IHelicoptero.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\IHelicoptero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:48:34.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDron.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\IDron.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\IDron.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\IDron.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\IDron.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:47:38.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAvionPrivado.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\IAvionPrivado.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\IAvionPrivado.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\IAvionPrivado.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\IAvionPrivado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:47:08.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAvion.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\IAvion.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\IAvion.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\IAvion.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\IAvion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:46:35.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AbstractAeronaveFactory.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\AbstractAeronaveFactory.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\AbstractFactory\\AbstractAeronaveFactory.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\AbstractFactory\\AbstractAeronaveFactory.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\AbstractFactory\\AbstractAeronaveFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:45:50.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RutaSimple.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Composite\\RutaSimple.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Composite\\RutaSimple.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Composite\\RutaSimple.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Composite\\RutaSimple.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:37:27.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RutaCompuesta.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Composite\\RutaCompuesta.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Composite\\RutaCompuesta.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Composite\\RutaCompuesta.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Composite\\RutaCompuesta.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:35:46.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ComponentRuta.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Composite\\ComponentRuta.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Composite\\ComponentRuta.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Composite\\ComponentRuta.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Composite\\ComponentRuta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:35:32.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TorreDeControlSubject.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Observer\\TorreDeControlSubject.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Observer\\TorreDeControlSubject.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Observer\\TorreDeControlSubject.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Observer\\TorreDeControlSubject.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:48:42.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SistemaReal.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Proxy\\SistemaReal.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Proxy\\SistemaReal.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Proxy\\SistemaReal.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Proxy\\SistemaReal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:40:18.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Proxy.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Proxy\\Proxy.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalConsole\\Proxy\\Proxy.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Proxy\\Proxy.cs",
+              "RelativeToolTip": "ProyectoFinalConsole\\Proxy\\Proxy.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:39:58.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoFinalConsole\\Program.cs",
-              "ToolTip": "C:\\Users\\maria\\source\\repos\\ProyectoFinalConsole\\ProyectoFinalConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Patrones de Diseno\\PF2\\ProyectoFinal---Patrones-Dise-o\\ProyectoFinalConsole\\Program.cs",
               "RelativeToolTip": "ProyectoFinalConsole\\Program.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAkwFAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T15:10:29.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T15:10:29.075Z"
             }
           ]
         }
